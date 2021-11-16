@@ -4,3 +4,6 @@
 - Without doors, windows and pipes. Just walls. Draw this simple house.
 - The second object you will need to draw is a big rectangle that's bottom is standing on the same line as the house's bottom so it becomes one line.
 - Keep in mind that the width of the rectangle is 2.5 times smaller than the width of the house(first object).
+
+
+![This is an image](
