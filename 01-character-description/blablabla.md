@@ -13,8 +13,8 @@ You see a volumetric figure - a cube. On the sides of which an eye is depicted, 
 ## 2 Work
 ### Alt text: 
 
-![3Dcube]
+![socks](https://github.com/ElizavetaLarionova/English-for-designers/blob/main/01-character-description/photo_2021-11-16_13-05-31.jpg)
 
 *Elizaveta Larionova, Digital Artwork. 2021*
 
-*Free obj, procreate*
+*Mobilephone*
