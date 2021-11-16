@@ -12,8 +12,19 @@ You see a volumetric figure - a cube. On the sides of which an eye is depicted, 
 
 ## 2 Work
 ### Alt text: 
+You see a
 
 ![socks](https://github.com/ElizavetaLarionova/English-for-designers/blob/main/01-character-description/photo_2021-11-16_13-05-31.jpg)
+
+*Elizaveta Larionova, Digital Artwork. 2021*
+
+*Mobilephone*
+
+## 3 Work
+### Alt text:
+You see a
+
+![macrame](https://github.com/ElizavetaLarionova/English-for-designers/blob/main/01-character-description/photo_2021-11-16_13-05-32.jpg)
 
 *Elizaveta Larionova, Digital Artwork. 2021*
 
